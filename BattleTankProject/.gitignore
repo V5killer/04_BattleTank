@@ -1,4 +1,6 @@
 *.VC.db
+Content/GTFreeMaterials/
+Content/StarterContent/
 
 # Visual Studio 2015 user specific files
 .vs/
